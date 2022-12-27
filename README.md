@@ -1,1 +1,1 @@
-# gpg-test, I changed this hello. Timmy Timmy.
+# gpg-test, I changed this hello. Timmy Timmy. OK.
